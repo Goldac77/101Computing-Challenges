@@ -1,0 +1,8 @@
+rover.left(17)
+rover.forward(230)
+rover.left(45)
+rover.forward(150)
+rover.left(107)
+rover.forward(205)
+rover.left(80)
+rover.forward(250)
